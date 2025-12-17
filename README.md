@@ -1,6 +1,6 @@
 ## ¡Hola! 👋
 
-Soy Daniel Bustillos, ingeniero mecatrónico con enfoque en gestión del mantenimiento y transformación digital.
+Soy Daniel Bustillos Vila, ingeniero mecatrónico con enfoque en gestión del mantenimiento y transformación digital.
 
 Me interesa cómo la ingeniería, los datos y la automatización pueden mejorar la confiabilidad, la eficiencia y la toma de decisiones en entornos industriales.
 
