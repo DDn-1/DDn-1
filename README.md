@@ -1,16 +1,47 @@
-## Hi there 👋
+## ¡Hola! 👋
 
-<!--
-**DDn-1/DDn-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Daniel Bustillos, ingeniero mecatrónico con enfoque en gestión del mantenimiento y transformación digital.
 
-Here are some ideas to get you started:
+Me interesa cómo la ingeniería, los datos y la automatización pueden mejorar la confiabilidad, la eficiencia y la toma de decisiones en entornos industriales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Disfruto diseñar soluciones prácticas que integren sistemas mecánicos, electrónicos y software, especialmente aplicadas al mantenimiento, monitoreo y optimización de procesos.
+
+He trabajado en proyectos relacionados con planificación de mantenimiento, gestión de datos técnicos, indicadores de mantenimiento y apoyo a la automatización de sistemas industriales.
+
+Me motiva aplicar herramientas digitales para modernizar el mantenimiento tradicional y transformar datos en información útil para la toma de decisiones.
+
+Datos rápidos:
+- Interesado en ingeniería de mantenimiento y confiabilidad
+- Enfocado en la resolución de problemas reales en entornos industriales
+- Aprendo mejor desarrollando proyectos prácticos
+- Interés en IoT, automatización e industrialización digital
+
+Actualmente aprendiendo o aplicando:
+- Gestión del mantenimiento y confiabilidad
+- Manejo y análisis de datos para mantenimiento
+- Automatización y sistemas industriales
+- Herramientas digitales aplicadas a la ingeniería
+
+<!--I'm Daniel Bustillos, a Mechatronic Engineering focused on maintenance management and digital transformation.
+
+I’m interested in how engineering, data, and automation can improve reliability, efficiency, and decision-making in industrial environments.
+
+I enjoy designing practical solutions that combine mechanical systems, electronics, and software — especially for maintenance, monitoring, and process optimization.
+
+My work usually involves maintenance engineering, data management, IoT concepts, and industrial systems. I’ve worked on projects related to equipment maintenance planning, data-driven maintenance indicators, and automation support tools.
+
+I’m particularly interested in using technology to modernize traditional maintenance practices and turn data into actionable insights.
+
+Fun Facts:
+- I’m passionate about maintenance engineering and system reliability
+- I enjoy working on real-world industrial problems
+- I like learning by building practical projects
+- Interested in IoT, automation, and industrial digitalization
+
+Currently learning:
+- Maintenance management and reliability concepts
+- Data handling and analysis for maintenance
+- Automation and industrial systems
+- Digital tools for engineering workflows
+
 -->
