@@ -16,12 +16,6 @@ Datos rápidos:
 - Aprendo mejor desarrollando proyectos prácticos
 - Interés en IoT, automatización e industrialización digital
 
-Actualmente aprendiendo o aplicando:
-- Gestión del mantenimiento y confiabilidad
-- Manejo y análisis de datos para mantenimiento
-- Automatización y sistemas industriales
-- Herramientas digitales aplicadas a la ingeniería
-
 <!--I'm Daniel Bustillos, a Mechatronic Engineering focused on maintenance management and digital transformation.
 
 I’m interested in how engineering, data, and automation can improve reliability, efficiency, and decision-making in industrial environments.
