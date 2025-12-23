@@ -40,4 +40,3 @@ Currently learning:
 
 [CV_DanielBustillosVila.pdf](https://github.com/user-attachments/files/24317946/CV_DanielBustillosVila.pdf)
 -->
-https://github.com/user-attachments/files/24317946/CV_DanielBustillosVila.pdf
