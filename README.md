@@ -39,3 +39,4 @@ Currently learning:
 - Digital tools for engineering workflows
 
 -->
+[CV_DanielBustillosVila.pdf](https://github.com/user-attachments/files/24317946/CV_DanielBustillosVila.pdf)
